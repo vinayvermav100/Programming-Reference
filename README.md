@@ -10,7 +10,7 @@ This repository is intended create a collection of some most common programs!!
 
 --Create a Pull Request(PR)
 
---We'll analyse and merge your repo
+--We'll analyse and merge your PR.
 #
 
 # Important
