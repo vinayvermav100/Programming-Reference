@@ -11,5 +11,14 @@ This repository is intended create a collection of some most common programs!!
 --Create a Pull Request(PR)
 
 --We'll analyse and merge your repo
+#
 
-### Ever thought it would be so simple to contribute to open source??
+# Important
+
+--Put The code in designated directory only.
+
+--Add file extensions.
+
+--Use meaningful Commit message and Pr
+
+--Try to use CamelCase  for file names
