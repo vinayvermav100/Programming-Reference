@@ -15,6 +15,8 @@ This repository is intended create a collection of some most common programs!!
 
 # Important
 
+--Try to add Comments to depict what your program does
+
 --Put The code in designated directory only.
 
 --Add file extensions.
