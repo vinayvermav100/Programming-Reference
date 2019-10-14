@@ -1,6 +1,6 @@
 package Arrays.Java;
 
-public class SelectionSort {
+public class SortArrays {
 
     public static void sort(int[] arr) {
         int n = arr.length;

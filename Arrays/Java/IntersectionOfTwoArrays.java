@@ -1,8 +1,8 @@
-package Lect7;
+package Arrays.Java;
 
 import java.util.ArrayList;
 
-public class Intersectionoftwoarrays {
+public class IntersectionOfTwoArrays {
 
 	public static void main(String[] args) {
 		int[] one = { 10, 10, 20, 20, 30, 40, 40, 40 };
