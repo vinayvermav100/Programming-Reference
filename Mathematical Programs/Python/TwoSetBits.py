@@ -1,0 +1,24 @@
+""" Look at the following sequence:
+    3, 5, 6, 9, 10, 12, 17, 18, 20....
+    All the numbers in the series has exactly 2 bits set in their binary representation.
+    Your task is simple, you have to find the Nth number of this sequence. """
+
+import math
+
+M = 1000000007
+
+def power(a,b):
+    ans = 1
+    while b>0:
+        if b&1==1:
+            ans = (ans*a)%M
+        a = (a*a)%M
+        b = b>>1
+    return ans
+    
+N = int(input()) 
+r = (int(math.sqrt((N*8)-1))+1)//2
+i = N-((r*(r-1))//2)-1
+        
+print( (power(2,r)%M + power(2,i)%M )%M)
+    
