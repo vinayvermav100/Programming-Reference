@@ -1,7 +1,8 @@
 """ Look at the following sequence:
     3, 5, 6, 9, 10, 12, 17, 18, 20....
     All the numbers in the series has exactly 2 bits set in their binary representation.
-    Your task is simple, you have to find the Nth number of this sequence. """
+    Your task is simple, you have to find the Nth number of this sequence. 
+    Since the number can be very large, print number % 1000000007. """
 
 import math
 
