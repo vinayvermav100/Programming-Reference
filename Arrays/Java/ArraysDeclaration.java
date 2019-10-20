@@ -1,3 +1,4 @@
+package Arrays.Java;
 
 public class ArraysDeclaration {
 
