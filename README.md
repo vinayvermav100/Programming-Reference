@@ -23,7 +23,7 @@ This repository is intended create a collection of some most common programs!!
 
 --Use meaningful Commit message and Pr
 
---Try to use CamelCase  for file names
+--Try to use camelCase  for file names
 
 # For some ideas on Projects
 -- Try this awesome repo by florinpop17 - [Awesome Project Ideas](https://github.com/florinpop17/app-ideas)
